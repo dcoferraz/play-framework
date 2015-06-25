@@ -1,2 +1,2 @@
 # play-framework
-Trabalho com o Play Framework.
+Aplicações para redes sociais utilizando o Framework Play.
